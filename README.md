@@ -1,2 +1,3 @@
 # Calculator
-Calculator with some functions
+Calculator with some functions. Feel free to comment
+
